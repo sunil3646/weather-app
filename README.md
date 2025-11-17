@@ -84,25 +84,3 @@ While using the provided `index.html`, you may encounter a few small bugs or beh
 
 If you'd like, I can apply these small fixes directly to `index.html` and add a quick unit or manual test page to confirm behavior.
 
-## Contributing
-
-Contributions are welcome. If you want to submit fixes or improvements:
-
-1. Fork the repo.
-2. Create a branch for your change.
-3. Make changes and test locally.
-4. Open a pull request describing the changes.
-
-## License
-
-This project is provided under the MIT License. Feel free to adapt it for learning or small projects.
-
----
-
-If you want, I can also:
-
-- Patch the small JS/HTML bugs listed above and commit them.
-- Add basic comments to the JS explaining behavior.
-- Add a tiny `README` section showing sample API responses for testing.
-
-Tell me which you'd like next and I'll proceed.
